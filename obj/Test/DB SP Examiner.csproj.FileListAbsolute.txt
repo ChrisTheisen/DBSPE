@@ -1,0 +1,10 @@
+C:\Projects\DBSPE\DB SP Examiner\bin\Test\DB SP Examiner.exe.config
+C:\Projects\DBSPE\DB SP Examiner\bin\Test\DB SP Examiner.exe
+C:\Projects\DBSPE\DB SP Examiner\bin\Test\DB SP Examiner.pdb
+C:\Projects\DBSPE\DB SP Examiner\obj\Test\DB SP Examiner.csproj.AssemblyReference.cache
+C:\Projects\DBSPE\DB SP Examiner\obj\Test\DB_SP_Examiner.DBSPE.resources
+C:\Projects\DBSPE\DB SP Examiner\obj\Test\DB_SP_Examiner.Properties.Resources.resources
+C:\Projects\DBSPE\DB SP Examiner\obj\Test\DB SP Examiner.csproj.GenerateResource.cache
+C:\Projects\DBSPE\DB SP Examiner\obj\Test\DB SP Examiner.csproj.CoreCompileInputs.cache
+C:\Projects\DBSPE\DB SP Examiner\obj\Test\DB SP Examiner.exe
+C:\Projects\DBSPE\DB SP Examiner\obj\Test\DB SP Examiner.pdb
